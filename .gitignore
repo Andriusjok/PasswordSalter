@@ -1,0 +1,8 @@
+# NPM dependencies
+node_modules
+
+# If using vscode
+.vscode
+
+# removing dist
+dist
